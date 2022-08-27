@@ -1,4 +1,4 @@
-## Olá eu sou o Lucas, atuamente trabalho com desenvolvimento Low-Code GeneXus, meu foco total é para Full-Stack JS
+## Olá eu sou o Lucas, atuamente trabalho com desenvolvimento Low-Code GeneXus(8,9,16 E 17).
 
 <div align="center">
   <a href="https://github.com/lucasrbordignon">
