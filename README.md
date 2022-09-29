@@ -1,9 +1,9 @@
-## Olá eu sou o Lucas, atuamente trabalho com desenvolvimento Low-Code GeneXus(8,9,16 E 17).
+## Olá, eu sou o Lucas, atuamente trabalho com desenvolvimento Low-Code GeneXus(8,9,16 E 17).
 
 <div align="center">
   <a href="https://github.com/lucasrbordignon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasrbordignon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrbordignon&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasrbordignon&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrbordignon&layout=compact&langs_count=7&theme=noctis_minimus"/>
 </div>
 
   <div style="display: inline_block"><br>
