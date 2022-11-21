@@ -1,4 +1,14 @@
-## Olá, eu sou o Lucas, atuamente trabalho com desenvolvimento Low-Code GeneXus(8,9,16 E 17).
+## I'm studying the fourth semester Bachelor in Computer Science (UNIFRAN).
+Today, I'm Software Developer at UmPontoDois with 7 months of experience working with GeneXus, SQL Server and MySQL.
+I have front-end experience, covering technologies such as:
+- HTML
+- CSS
+- Javascript
+- React JS
+- Tailwind
+- Git and GitHub
+
+My goal for the future is to work as a web developer.
 
 <div align="center">
   <a href="https://github.com/lucasrbordignon">
