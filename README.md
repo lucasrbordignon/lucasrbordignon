@@ -1,4 +1,4 @@
-## I'm studying the fourth semester Bachelor in Computer Science (UNIFRAN).
+## I'm studying the fifth semester Bachelor in Computer Science (UNIFRAN).
 Today, I'm Software Developer at UmPontoDois with 7 months of experience working with GeneXus, SQL Server and MySQL.
 I have front-end experience, covering technologies such as:
 - HTML
