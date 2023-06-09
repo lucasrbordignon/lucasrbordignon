@@ -1,14 +1,13 @@
-## I'm studying the fifth semester Bachelor in Computer Science (UNIFRAN).
-Today, I'm Software Developer at UmPontoDois with 7 months of experience working with GeneXus, SQL Server and MySQL.
-I have front-end experience, covering technologies such as:
-- HTML
-- CSS
-- Javascript
-- React JS
-- Tailwind
-- Git and GitHub
+## I'm currently enrolled in the fifth semester of the Bachelor's program in Computer Science at UNIFRAN. 
+At present, I hold the position of Software Developer at UmPontoDois, where I have amassed 12 months of professional experience working with GeneXus, SQL Server, and MySQL. My expertise extends across various technologies, encompassing:
 
-My goal for the future is to work as a web developer.
+- React JS
+- TypeScript
+- Tailwind
+- Git
+- Node.js
+
+My primary objective is to pursue a career as a full-stack developer.
 
 <div align="center">
   <a href="https://github.com/lucasrbordignon">
