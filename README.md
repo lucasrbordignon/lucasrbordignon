@@ -1,5 +1,5 @@
-## I'm currently enrolled in the fifth semester of the Bachelor's program in Computer Science at UNIFRAN. 
-At present, I hold the position of Software Developer at UmPontoDois, where I have amassed 12 months of professional experience working with GeneXus, SQL Server, and MySQL. My expertise extends across various technologies, encompassing:
+## I'm currently enrolled in the sixth semester of the Bachelor's program in Computer Science at UNIFRAN. 
+At present, I hold the position of Software Developer at UmPontoDois, where I have amassed 15 months of professional experience working with GeneXus, SQL Server, and MySQL. My expertise extends across various technologies, encompassing:
 
 - React JS
 - TypeScript
