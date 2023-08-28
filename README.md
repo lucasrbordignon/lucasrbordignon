@@ -1,13 +1,8 @@
-## I'm currently enrolled in the sixth semester of the Bachelor's program in Computer Science at UNIFRAN. 
-At present, I hold the position of Software Developer at UmPontoDois, where I have amassed 15 months of professional experience working with GeneXus, SQL Server, and MySQL. My expertise extends across various technologies, encompassing:
+## Neste momento, estou matriculado no sexto semestre do curso de Bacharelado em Ciência da Computação na UNIFRAN. Além disso, ocupo o cargo de Desenvolvedor de Software na UmPontoDois, onde já acumulei 16 meses de experiência profissional trabalhando com GeneXus, SQL Server e MySQL. 
 
-- React JS
-- TypeScript
-- Tailwind
-- Git
-- Node.js
+Tenho como principal objetivo trilhar uma carreira como desenvolvedor front-end, unindo as habilidades que tenho adquirido e buscando sempre aprender e contribuir de maneira positiva para os projetos em que me envolvo. Estou ansioso para continuar a expandir meus conhecimentos e colaborar de forma produtiva com o mundo da tecnologia.
 
-My primary objective is to pursue a career as a full-stack developer.
+Minha stack de estudo atual é composta por React JS, Javascript e Tailwind.
 
 <div align="center">
   <a href="https://github.com/lucasrbordignon">
