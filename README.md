@@ -1,4 +1,4 @@
-## Neste momento, estou matriculado no sexto semestre do curso de Bacharelado em Ciência da Computação na UNIFRAN. Além disso, ocupo o cargo de Desenvolvedor de Software na UmPontoDois, onde já acumulei 16 meses de experiência profissional trabalhando com GeneXus, SQL Server e MySQL. 
+## Neste momento, estou matriculado no sétimo semestre do curso de Bacharelado em Ciência da Computação na UNIFRAN. Além disso, ocupo o cargo de Desenvolvedor de Software na UmPontoDois, onde já acumulei 19 meses de experiência profissional trabalhando com GeneXus, SQL Server e MySQL. 
 
 Tenho como principal objetivo trilhar uma carreira como desenvolvedor front-end, unindo as habilidades que tenho adquirido e buscando sempre aprender e contribuir de maneira positiva para os projetos em que me envolvo. Estou ansioso para continuar a expandir meus conhecimentos e colaborar de forma produtiva com o mundo da tecnologia.
 
