@@ -1,8 +1,4 @@
-## Neste momento, estou matriculado no último semestre do curso de Bacharelado em Ciência da Computação na UNIFRAN. Além disso, ocupo o cargo de Desenvolvedor de Software na UmPontoDois, onde já acumulei 19 meses de experiência profissional trabalhando com GeneXus, SQL Server e MySQL. 
-
-Tenho como principal objetivo trilhar uma carreira como desenvolvedor front-end, unindo as habilidades que tenho adquirido e buscando sempre aprender e contribuir de maneira positiva para os projetos em que me envolvo. Estou ansioso para continuar a expandir meus conhecimentos e colaborar de forma produtiva com o mundo da tecnologia.
-
-Minha stack de estudo atual é composta por React JS, Javascript e Tailwind.
+## Com mais de 4 anos de experiência, dediquei minha carreira ao desenvolvimento Full-Stack, especializado em JavaScript/Java, utilizando React.js, React Native, Tailwindcss, Node.js e Java/SpringB Boot.
 
 <div align="center">
   <a href="https://github.com/lucasrbordignon">
