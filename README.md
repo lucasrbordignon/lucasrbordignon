@@ -1,4 +1,4 @@
-## Com mais de 4 anos de experiência, dediquei minha carreira ao desenvolvimento Full-Stack, especializado em JavaScript/Java, utilizando React.js, React Native, Tailwindcss, Node.js e Java/SpringB Boot.
+## Com mais de 4 anos de experiência, dediquei minha carreira ao desenvolvimento Full-Stack, especializado em JavaScript e Java, utilizando React.js, React Native, Tailwindcss, Node.js e Java/SpringB Boot.
 
 <div align="center">
   <a href="https://github.com/lucasrbordignon">
