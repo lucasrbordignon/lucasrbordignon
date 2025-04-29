@@ -1,64 +1,11 @@
-<h1 align="center">👋 Olá, eu sou o Lucas Bordignon!</h1>
-<p align="center">🚀 Desenvolvedor Full-Stack | JavaScript | Java | React | Node.js | Spring Boot</p>
+<h1>👋 Olá, eu sou o Lucas Bordignon!</h1>
+<p>🚀 Desenvolvedor Full-Stack
 
 ---
 
-## 🧠 Sobre mim
+Desenvolvedor Full-Stack com experiência em tecnologias modernas para aplicações web e mobile. Especializado em JavaScript, TypeScript, React, Node.js, Next.js, NestJS, SQL, NoSQL, AWS e Java (Spring Boot). 
+Apaixonado por escrever código limpo, escalável e eficiente, focado na entrega de produtos de alta performance.
 
-Com mais de **4 anos de experiência**, dediquei minha carreira ao **desenvolvimento Full-Stack**, criando soluções eficientes e escaláveis.  
-Trabalho com foco em **JavaScript (React.js, Node.js, React Native)** e **Java (Spring Boot)**, sempre aplicando boas práticas de código, testes e arquitetura.
-
-Atualmente, estou em constante evolução, estudando **arquitetura de software**, **DevOps com Docker/Kubernetes**, e aprofundando meus conhecimentos em **Clean Architecture e TDD**.
-
----
-
-## 🚀 Tecnologias & Ferramentas
-
-<div style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React Native"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasrbordignon&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrbordignon&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
----
-
-## 📌 Projetos em Destaque
-
-- 🎯 **[lrb.dev.br](https://www.lrb.dev.br)** — Meu portfólio pessoal, feito com React e TailwindCSS.
-- 📱 **App de Gestão Financeira** — Aplicativo em React Native + Firebase.
-- 🛠️ **API de Produtos** — Backend em Node.js + Express + MongoDB com autenticação JWT.
-
-> Explore meus repositórios para mais projetos incríveis! 🌟
-
----
-
-## 📬 Contato
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/lucasrbordignon/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/lucasrbordignon" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
-
----
-
-<p align="center">💡 "A tecnologia move o mundo. Mas é a criatividade que dá direção."</p>
+![lucasrbordignon's Stats](https://github-readme-stats.vercel.app/api?username=lucasrbordignon&theme=gotham&show_icons=true&hide_border=true&count_private=false&bg_color=00000000)
+![lucasrbordignon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucasrbordignon&theme=gotham&hide_border=true&bg_color=00000000)
+![lucasrbordignon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrbordignon&theme=gotham&show_icons=true&hide_border=true&layout=compact&bg_color=00000000)
