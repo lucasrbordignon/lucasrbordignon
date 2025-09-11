@@ -1,6 +1,6 @@
 <h1>👋 Olá, eu sou o Lucas Bordignon!</h1>
 
-Desenvolvedor Full-Stack com experiência em tecnologias modernas para aplicações web e mobile. Especializado em JavaScript, TypeScript, React, React Native, Node.js, Next.js, NestJS, SQL, NoSQL, AWS e Java (Spring Boot). 
+Desenvolvedor Front-End com experiência em tecnologias modernas para aplicações web e mobile. Especializado em JavaScript, TypeScript, React, React Native, Node.js, Next.js, NestJS, SQL e NoSQL(mongodb). 
 Apaixonado por escrever código limpo, escalável e eficiente, focado na entrega de produtos de alta performance.
 
 ![lucasrbordignon's Stats](https://github-readme-stats.vercel.app/api?username=lucasrbordignon&theme=gotham&show_icons=true&hide_border=true&count_private=false&bg_color=00000000)
