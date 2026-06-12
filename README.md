@@ -19,4 +19,4 @@ Currently, I work with Node.js and React, applying these principles to modern so
 
 ###
 
-*Maybe I'm listening to Pink Floyd right now.* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" />
+*Maybe I'm listening to Pink Floyd or Radiohead right now.* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" />
