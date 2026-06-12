@@ -5,9 +5,8 @@
 ###
 
 `Nodejs` • `Reactjs` • `React Native` • `Typescript` • `Tailwindcss` 
-<br/>
 
-• `MongoDB`• `Go` • `SQL` • `NoSQL` • `Docker` • `AWS` • `NGNIX` 
+• `MongoDB`• `Go` • `SQL` • `NoSQL` • `Docker` • `AWS` • `NGNIX` • `Traefik`
 
 I am a Software Developer with hands-on experience in developing and maintaining legacy systems, especially ERP and commercial management systems. My background goes beyond specific technologies, focusing on business rules, administrative processes, system integrations, databases, and the gradual evolution of production systems.
 Currently, I work with Node.js and React, applying these principles to modern solutions while staying grounded in real-world enterprise software.
