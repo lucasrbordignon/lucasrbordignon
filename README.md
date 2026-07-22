@@ -4,7 +4,7 @@
 
 ###
 
-`Nodejs` • `Reactjs` • `React Native` • `Typescript` • `Tailwindcss` • 
+`Nodejs` • `Reactjs` • `React Native` • `Typescript` • `Tailwindcss` 
 </br>
 `MongoDB`• `Go` • `SQL` • `NoSQL` • `Docker` • `AWS` • `NGNIX` • `Traefik`
 
