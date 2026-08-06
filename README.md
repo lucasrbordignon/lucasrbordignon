@@ -2,6 +2,7 @@
 
 *Software Developer · 🇧🇷 based in São Paulo*
 
+[Veja meu currículo aqui](./cv.md)
 ###
 
 `Nodejs` • `Reactjs` • `React Native` • `Typescript` • `Tailwindcss` 
