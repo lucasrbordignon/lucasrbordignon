@@ -48,16 +48,6 @@ Atuação no desenvolvimento e evolução do Flow, plataforma comercial e de ven
 - Refatorei padrões de acesso e normalização de estado global no front-end para redução de overhead de renderização.
 - Integrei agentes de Inteligência Artificial aos fluxos corporativos para validação, enriquecimento e triagem automatizada de dados.
 
-### Kinkan Cloud | Founder & Platform Engineer
-*Jan/2026 – Presente*
-
-Responsável pela arquitetura técnica, engenharia de backend e operações em nuvem de SaaS e produtos customizados atendendo 12 clientes ativos em produção.
-
-- Lidero o desenvolvimento técnico de CRM e plataforma de gestão comercial 360° utilizando Node.js, Go e Java, com front-end em React.
-- Desenho e opero infraestrutura de dados baseada em PostgreSQL e Redis.
-- Gerencio servidores Linux em produção utilizando Docker, Nginx e Traefik para tráfego e roteamento.
-- Automatizo fluxos de entrega contínua (CI/CD) operando workloads distribuídos entre servidores VPS e instâncias AWS (EC2, S3).
-
 ### AGX Software | Front-End Developer
 *Set/2025 – Fev/2026*
 
