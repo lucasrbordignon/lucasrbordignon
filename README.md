@@ -2,7 +2,7 @@
 
 *Backend & Platform Engineer · Distributed Systems · Cloud Infrastructure · 🇧🇷 São Paulo*
 
-[LinkedIn](https://www.linkedin.com/in/lucasrbordignon/) · [Email](mailto:lucas.r.bordignon@gmail.com) · [Currículo](./cv.md) · [📥 Baixar meu Currículo (PDF)]([https://drive.google.com/uc?export=download&id=SEU_ID_DO_ARQUIVO](https://drive.google.com/uc?export=download&id=1DKrN9XthLX0C-Fzhe9fyvF61RKtktdWUltfsqZrYaJw))
+[LinkedIn](https://www.linkedin.com/in/lucasrbordignon/) · [Email](mailto:lucas.r.bordignon@gmail.com) · [Currículo](./cv.md) · [Baixar meu Currículo](https://drive.google.com/uc?export=download&id=1DKrN9XthLX0C-Fzhe9fyvF61RKtktdWUltfsqZrYaJw)
 
 
 ---
