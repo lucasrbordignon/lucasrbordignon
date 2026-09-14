@@ -1,261 +1,109 @@
 # Lucas Rodrigues Bordignon
 
-# Software Engineer | Backend | Platform Engineering | Cloud
+**Software Engineer | Backend · Platform Engineering · Distributed Systems**
 
-São Paulo - Brasil
-
-+55 15 99136-0221
-
-lucas.r.bordignon@gmail.com
-
-LinkedIn: https://linkedin.com/in/lucasrbordignon
-
-GitHub: https://github.com/lucasrbordignon
+São Paulo, Brasil • +55 (15) 99136-0221 • [lucas.r.bordignon@gmail.com](mailto:lucas.r.bordignon@gmail.com)
+[LinkedIn](https://linkedin.com/in/lucasrbordignon) • [GitHub](https://github.com/lucasrbordignon)
 
 ---
 
-# Resumo
+## Resumo Profissional
 
-Software Engineer com mais de cinco anos de experiência projetando, desenvolvendo e evoluindo sistemas corporativos de missão crítica.
-
-Minha atuação vai além da implementação de funcionalidades. Trabalho desde o entendimento do problema de negócio, levantamento de requisitos e modelagem de processos até a definição da arquitetura, desenvolvimento, implantação e sustentação em produção.
-
-Tenho facilidade para compreender fluxos complexos, identificar gargalos operacionais e transformar processos de negócio em soluções simples, escaláveis e sustentáveis.
-
-Ao longo da carreira participei do desenvolvimento de ERPs, sistemas de RH, plataformas financeiras, WMS, aplicações comerciais, sistemas fiscais e tributários, plataformas de vendas nacionais e aplicações mobile.
-
-Atuo principalmente com Node.js, TypeScript, React, PostgreSQL, Redis, Docker e AWS, sempre buscando simplicidade arquitetural, alta disponibilidade, automação e performance.
-
-Meu principal interesse é evoluir para posições de Software Engineer e Platform Engineer, atuando na construção de plataformas, infraestrutura e arquitetura de sistemas distribuídos.
+Engenheiro de Software com mais de 5 anos de experiência projetando, implementando e operando sistemas corporativos críticos e plataformas em escala (ERP, WMS, Fintech e Vendas). Especialização prática em Backend, Cloud e Platform Engineering, atuando desde o entendimento e modelagem de regras de negócio complexas até pipelines de CI/CD, observabilidade e sustentação em produção. Experiência sólida na construção de serviços resilientes com Java, Go e Node.js/TypeScript, integração de ecossistemas AWS, processamento assíncrono (filas/workers), arquitetura orientada a eventos e otimização de bancos de dados relacionais e em memória.
 
 ---
 
-# Principais Competências
+## Competências Técnicas
 
-## Engenharia de Software
+**Linguagens & Runtimes**
+Go, Java, Node.js / Bun, TypeScript, C# (.NET)
 
-- Levantamento de requisitos
-- Mapeamento de processos
-- Modelagem de domínio
-- Arquitetura de Software
-- Arquitetura Backend
-- Integração entre Sistemas
-- APIs REST
-- Sistemas Distribuídos
-- Processamento Assíncrono
-- Event Driven
-- Modelagem Relacional
-- Otimização de Performance
-- Observabilidade
-- Troubleshooting
+**Backend & Arquitetura**
+Sistemas Distribuídos, Event-Driven Architecture, Filas & Workers (SQS, Redis), APIs REST, WebSockets, Arquitetura Multi-tenant, Padrões Arquiteturais (Facade)
+
+**Bancos de Dados & Caching**
+PostgreSQL (CTEs, Query Tuning), Redis, SQL Server, MySQL
+
+**Cloud, DevOps & Infraestrutura**
+AWS (EC2, S3, RDS, SQS, SNS), Docker, Linux, CI/CD (GitHub Actions), Nginx, Traefik, Grafana (Observabilidade)
+
+**Front-end & Mobile**
+React, React Native, Redux
 
 ---
 
-## Backend
+## Experiência Profissional
 
-- TypeScript (Node/Bun)
-- C#
-- .NET
-- Java
-- GoLang
+### Pagana Soluções | Software Developer
+*Mar/2026 – Presente*
 
----
+Atuação no desenvolvimento e evolução do Flow, plataforma comercial e de vendas baseada em IA utilizada por mais de 1.000 usuários em operações comerciais de grande porte.
 
-## Front-end
+- Desenvolvo e sustento serviços de backend em Node.js e TypeScript, aplicações web em React e apps mobile com React Native.
+- Arquiteto APIs REST e fluxos de processamento assíncrono e orientados a eventos com PostgreSQL e Redis.
+- Opero diretamente serviços de infraestrutura em nuvem na AWS, incluindo S3, RDS, EC2, SQS e SNS para mensageria e computação.
+- Construo e mantenho pipelines automatizados de CI/CD utilizando GitHub Actions em ambientes conteinerizados com Docker e Linux.
+- Monitoro telemetria e integridade de produção utilizando Grafana dentro das práticas de observabilidade.
+- Otimizei operações analíticas de banco de dados reestruturando consultas complexas em PostgreSQL com Common Table Expressions (CTEs).
+- Refatorei padrões de acesso e normalização de estado global no front-end para redução de overhead de renderização.
+- Integrei agentes de Inteligência Artificial aos fluxos corporativos para validação, enriquecimento e triagem automatizada de dados.
 
-- React
-- React Native
+### Kinkan Cloud | Founder & Platform Engineer
+*Jan/2026 – Presente*
 
----
+Responsável pela arquitetura técnica, engenharia de backend e operações em nuvem de SaaS e produtos customizados atendendo 12 clientes ativos em produção.
 
-## Banco de Dados
+- Lidero o desenvolvimento técnico de CRM e plataforma de gestão comercial 360° utilizando Node.js, Go e Java, com front-end em React.
+- Desenho e opero infraestrutura de dados baseada em PostgreSQL e Redis.
+- Gerencio servidores Linux em produção utilizando Docker, Nginx e Traefik para tráfego e roteamento.
+- Automatizo fluxos de entrega contínua (CI/CD) operando workloads distribuídos entre servidores VPS e instâncias AWS (EC2, S3).
 
-- PostgreSQL
-- SQL Server
-- MySQL
-- Redis
+### AGX Software | Front-End Developer
+*Set/2025 – Fev/2026*
 
----
+Desenvolvimento de plataforma financeira para contratação autônoma de financiamentos e consórcios integrada a órgãos federais (Dataprev).
 
-## Infraestrutura
+- Desenvolvi interfaces dinâmicas em React e TypeScript utilizando metaprogramação para compor fluxos contratuais complexos.
+- Diagnostiquei gargalos de processamento com grandes volumes de dados no cliente e refatorei buscas lineares para estratégias de acesso indexado direto, otimizando o consumo de memória e fluidez da UI.
+- Integrei jornadas a APIs REST seguras e atuei na cobertura de testes automatizados unitários e de integração.
 
-- Docker
-- Linux
-- AWS
-- GitHub Actions
-- CI/CD
-- IIS
-- Traefik
-- Nginx
-- PM2
+### JetSoft | Desenvolvedor Full-Stack
+*Mai/2025 – Ago/2025*
 
----
+Desenvolvimento em sistema WMS (Warehouse Management System) voltado para rastreabilidade logística, conferência e fluxo operacional.
 
-# Experiência Profissional
+- Atuei no backend com .NET e modelagem/otimização de consultas complexas em SQL Server.
+- Implementei padrões arquiteturais como Facade para isolamento de camadas em ambiente com características distribuídas.
+- Sustentação e manutenção de rotinas críticas de expedição, inventário e emissão de notas fiscais.
 
-## Pagana Soluções
+### Compusis Informática | Desenvolvedor Full-Stack
+*Jan/2025 – Mai/2025*
 
-### Software Engineer
+Evolução e manutenção de ERP e aplicações móveis voltadas a forças comerciais e frente de caixa.
 
-Abr/2026 – Atual
+- Desenvolvi regras de negócio, integrações e rotinas de persistência no backend em Java.
+- Construí e mantive interfaces web em JavaScript/jQuery e aplicativos móveis em Android (Java).
+- Realizei correções emergenciais em ambiente produtivo e evolução em módulos fiscais e tributários.
 
-Atuação na evolução da plataforma Flow, solução nacional utilizada por equipes comerciais distribuídas em todo o Brasil, atendendo mais de mil usuários simultaneamente.
+### Um Ponto Dois Software de Gestão | Desenvolvedor Full-Stack
+*Mai/2022 – Out/2024*
 
-Responsabilidades
+Desenvolvimento de suíte de sistemas corporativos (ERP, RH, WMS, Gestão Comercial e Fiscal) e projetos dedicados ao setor frigorífico.
 
-- Evolução da arquitetura da plataforma.
-- Desenvolvimento de APIs REST utilizando Node.js.
-- Desenvolvimento de aplicações React e React Native.
-- Modelagem de novas funcionalidades junto ao negócio.
-- Definição técnica de fluxos operacionais.
-- Implementação de processamento assíncrono utilizando Redis.
-- Desenvolvimento de integrações entre serviços.
-- Implementação de comunicação em tempo real utilizando WebSockets.
-- Otimização de consultas SQL e consumo de APIs.
-- Implementação de estratégias de cache.
-- Containerização utilizando Docker.
-- Integração com serviços AWS.
-- Suporte e sustentação em produção.
-- Participação ativa em refinamentos técnicos e decisões arquiteturais.
-
-Projetos
-
-- Plataforma nacional de vendas.
-- Automação comercial.
-- Gestão documental.
-- Fluxos inteligentes de atendimento.
-- Integração com agentes de Inteligência Artificial.
-- Processamento de documentos.
-- Dashboards operacionais.
+- Desenvolvi aplicações corporativas utilizando C#, implementando regras de negócio complexas e rotinas administrativas.
+- Modelei e otimizei bases de dados relacionais com SQL Server e MySQL para suporte a relatórios operacionais e transações de alto volume.
+- Atuei diretamente no ciclo completo de software: levantamento de requisitos com stakeholders, modelagem de processos e sustentação em produção.
 
 ---
 
-## AGX Software
+## Formação Acadêmica
 
-### Front-end Engineer
-
-Set/2025 – Fev/2026
-
-Desenvolvimento de plataforma baseada em metaprogramação voltada ao mercado financeiro.
-
-Responsabilidades
-
-- Desenvolvimento de aplicações React e TypeScript.
-- Construção de páginas geradas dinamicamente.
-- Desenvolvimento de jornadas digitais para contratação de crédito.
-- Integração com APIs REST.
-- Componentização.
-- Testes automatizados.
-- Colaboração com arquitetura Backend.
+- **Pós-graduação Lato Sensu em DevOps** — Estácio *(Jul/2026 – Jun/2027)*
+- **Bacharelado em Ciência da Computação** — Universidade de Franca *(Jan/2021 – Dez/2024)*
 
 ---
 
-## JetSoft
+## Idiomas
 
-### Full Stack Engineer
-
-Mai/2025 – Ago/2025
-
-Atuação no desenvolvimento de um WMS utilizado em operações logísticas.
-
-Responsabilidades
-
-- Desenvolvimento Backend utilizando .NET.
-- Desenvolvimento Mobile utilizando React Native.
-- Implementação de leitura de código de barras.
-- Conferência logística.
-- Emissão de Nota Fiscal.
-- Desenvolvimento de consultas SQL.
-- Aplicação de padrões de projeto como Facade.
-- Evolução de funcionalidades críticas.
-
-Resultados
-
-- Participação em sistema responsável pela emissão de mais de 500 notas fiscais diariamente.
-- Plataforma movimentando aproximadamente R$ 500 mil por dia.
-
----
-
-## Compusis Informática
-
-### Software Engineer
-
-Jan/2025 – Mai/2025
-
-Atuação na evolução de ERP consolidado nacionalmente.
-
-Responsabilidades
-
-- Evolução de módulos fiscais e tributários.
-- Desenvolvimento de melhorias em ERP.
-- Correção de problemas em produção.
-- Evolução de módulos de ponto de venda.
-- Desenvolvimento Java.
-- Desenvolvimento Android.
-- Integração entre módulos do sistema.
-
----
-
-## Um Ponto Dois Software de Gestão
-
-### Software Engineer
-
-Mai/2022 – Out/2024
-
-Participação em todas as etapas do ciclo de desenvolvimento de sistemas corporativos.
-
-Responsabilidades
-
-- Levantamento de requisitos junto aos clientes.
-- Mapeamento de processos.
-- Transformação de regras de negócio em soluções de software.
-- Desenvolvimento de novos produtos.
-- Arquitetura de soluções.
-- Implementação de arquitetura multi-tenant.
-- Desenvolvimento de integrações.
-- Desenvolvimento de módulos de RH, Financeiro, Fiscal, Tributário e Comercial.
-- Desenvolvimento de sistemas WMS.
-- Modelagem de banco de dados SQL Server.
-- Desenvolvimento de consultas SQL.
-- Implementação de Background Jobs.
-- Publicação e sustentação utilizando IIS.
-- Atendimento e suporte técnico.
-
-Projetos
-
-- ERP Empresarial.
-- ERP Comercial.
-- Sistema de RH.
-- Sistema Financeiro.
-- Sistema Fiscal.
-- Sistema Tributário.
-- Sistema WMS.
-- Plataforma de rastreabilidade para frigorífico.
-
----
-
-# Formação
-
-## Pós-graduação em DevOps
-
-Estácio
-
-2026 – 2027
-
----
-
-## Bacharel em Ciência da Computação
-
-Universidade de Franca
-
-2021 – 2025
-
----
-
-# Idiomas
-
-Português — Nativo
-
-Inglês — Intermediário (Leitura de documentação técnica e comunicação escrita)
-
-Espanhol — Intermediário
+- **Português:** Nativo
+- **Inglês:** Intermediário (Leitura técnica aprofundada, documentação e comunicação profissional escrita)
