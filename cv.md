@@ -1,99 +1,93 @@
 # Lucas Rodrigues Bordignon
 
-**Software Engineer | Backend · Platform Engineering · Distributed Systems**
+**Full Stack Software Engineer | React · Node.js · TypeScript · PostgreSQL · AWS**
 
-São Paulo, Brasil • +55 (15) 99136-0221 • [lucas.r.bordignon@gmail.com](mailto:lucas.r.bordignon@gmail.com)
-[LinkedIn](https://linkedin.com/in/lucasrbordignon) • [GitHub](https://github.com/lucasrbordignon)
-
----
-
-## Resumo Profissional
-
-Engenheiro de Software com mais de 5 anos de experiência projetando, implementando e operando sistemas corporativos críticos e plataformas em escala (ERP, WMS, Fintech e Vendas). Especialização prática em Backend, Cloud e Platform Engineering, atuando desde o entendimento e modelagem de regras de negócio complexas até pipelines de CI/CD, observabilidade e sustentação em produção. Experiência sólida na construção de serviços resilientes com Java, Go e Node.js/TypeScript, integração de ecossistemas AWS, processamento assíncrono (filas/workers), arquitetura orientada a eventos e otimização de bancos de dados relacionais e em memória.
+São Paulo, Brazil · +55 (15) 99136-0221 · [lucas.r.bordignon@gmail.com](mailto:lucas.r.bordignon@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/lucasrbordignon/) · [GitHub](https://github.com/lucasrbordignon) · [Kinkan Cloud](https://kinkan.cloud)  
+**Open to international opportunities and relocation to Spain / Europe**
 
 ---
 
-## Competências Técnicas
+## Professional Summary
 
-**Linguagens & Runtimes**
-Go, Java, Node.js / Bun, TypeScript, C# (.NET)
+Full Stack Software Engineer with professional experience since 2022 building, modernizing, and operating business-critical software across SaaS, ERP, WMS, financial services, and sales platforms. Strong focus on **React, Node.js, TypeScript, PostgreSQL, and AWS**, with hands-on experience across the software lifecycle: business requirements, application architecture, REST APIs, asynchronous processing, database optimization, CI/CD, and production operations. Comfortable bridging frontend and backend engineering while designing pragmatic, maintainable systems. Experienced working with cross-functional stakeholders and building products used by real customers.
 
-**Backend & Arquitetura**
-Sistemas Distribuídos, Event-Driven Architecture, Filas & Workers (SQS, Redis), APIs REST, WebSockets, Arquitetura Multi-tenant, Padrões Arquiteturais (Facade)
+## Technical Skills
 
-**Bancos de Dados & Caching**
-PostgreSQL (CTEs, Query Tuning), Redis, SQL Server, MySQL
+- **Core:** TypeScript, JavaScript, Node.js, React, PostgreSQL, SQL
+- **Backend & Architecture:** Express, NestJS, REST APIs, asynchronous workers, event-driven integrations, Redis, AWS SQS/SNS, multi-tenant applications, Server-Sent Events (SSE)
+- **Frontend & Mobile:** React, React Native, Redux, Tailwind CSS
+- **Cloud & DevOps:** AWS (EC2, S3, RDS, SQS, SNS), Docker, Linux, GitHub Actions, CI/CD, Nginx, Traefik, Grafana
+- **Additional Experience:** Java, C#/.NET, Go, SQL Server, MySQL, Android (Java), jQuery
 
-**Cloud, DevOps & Infraestrutura**
-AWS (EC2, S3, RDS, SQS, SNS), Docker, Linux, CI/CD (GitHub Actions), Nginx, Traefik, Grafana (Observabilidade)
+## Professional Experience
 
-**Front-end & Mobile**
-React, React Native, Redux
+### Pagana Soluções — Software Developer
+**Mar 2026 – Present | Goiânia, Brazil**
 
----
+Develop and operate Flow, an AI-powered lead acquisition and sales platform supporting **1,000+ users** in large-scale commercial operations.
 
-## Experiência Profissional
+- Build and maintain REST APIs and backend services using **Node.js, TypeScript, PostgreSQL, and Redis**, contributing to React and React Native applications when needed.
+- Improved chatbot-related query performance by approximately **40%** by restructuring complex PostgreSQL queries using Common Table Expressions (CTEs).
+- Implement asynchronous workflows using **AWS SQS and SNS** to improve processing throughput and reliability.
+- Deliver end-to-end business workflows covering lead acquisition and qualification, contract and proposal automation, and document validation.
+- Work with **AWS EC2, S3, and RDS**; maintain CI/CD pipelines with **GitHub Actions** and deploy Docker-based services on Linux.
+- Investigate production issues and monitor system health using **Grafana**; integrate AI-driven validation, enrichment, and triage into business processes.
 
-### Pagana Soluções | Software Developer
-*Mar/2026 – Presente*
+### Kinkan Cloud — Founder & Software Engineer
+**Jan 2026 – Present | Brazil**
 
-Atuação no desenvolvimento e evolução do Flow, plataforma comercial e de vendas baseada em IA utilizada por mais de 1.000 usuários em operações comerciais de grande porte.
+Build and operate CRM and business management products used by real small-business customers.
 
-- Desenvolvo e sustento serviços de backend em Node.js e TypeScript, aplicações web em React e apps mobile com React Native.
-- Arquiteto APIs REST e fluxos de processamento assíncrono e orientados a eventos com PostgreSQL e Redis.
-- Opero diretamente serviços de infraestrutura em nuvem na AWS, incluindo S3, RDS, EC2, SQS e SNS para mensageria e computação.
-- Construo e mantenho pipelines automatizados de CI/CD utilizando GitHub Actions em ambientes conteinerizados com Docker e Linux.
-- Monitoro telemetria e integridade de produção utilizando Grafana dentro das práticas de observabilidade.
-- Otimizei operações analíticas de banco de dados reestruturando consultas complexas em PostgreSQL com Common Table Expressions (CTEs).
-- Refatorei padrões de acesso e normalização de estado global no front-end para redução de overhead de renderização.
-- Integrei agentes de Inteligência Artificial aos fluxos corporativos para validação, enriquecimento e triagem automatizada de dados.
+- Developed a CRM and commercial management platform adopted by a marketing agency and its clients, a stationery shop, and independent service providers.
+- Own product discovery, implementation, deployment, staging and production environments, and PostgreSQL backup routines.
+- Prioritize features based on user feedback and day-to-day business operations.
 
-### AGX Software | Front-End Developer
-*Set/2025 – Fev/2026*
+### São Paulo State Department of Education — Systems Development Instructor & Programme Coordinator
+**Feb 2026 – Aug 2026 | São Paulo, Brazil**
 
-Desenvolvimento de plataforma financeira para contratação autônoma de financiamentos e consórcios integrada a órgãos federais (Dataprev).
+- Taught programming fundamentals, web and backend development, mobile applications, and databases.
+- Coordinated technical content and hands-on activities, mentored student projects, and supported instructors and learner progress.
 
-- Desenvolvi interfaces dinâmicas em React e TypeScript utilizando metaprogramação para compor fluxos contratuais complexos.
-- Diagnostiquei gargalos de processamento com grandes volumes de dados no cliente e refatorei buscas lineares para estratégias de acesso indexado direto, otimizando o consumo de memória e fluidez da UI.
-- Integrei jornadas a APIs REST seguras e atuei na cobertura de testes automatizados unitários e de integração.
+### AGX Software — Front-End Developer
+**Sep 2025 – Feb 2026 | Sorocaba, Brazil**
 
-### JetSoft | Desenvolvedor Full-Stack
-*Mai/2025 – Ago/2025*
+Contributed to a financial self-service platform for loans and consortium products integrated with Dataprev.
 
-Desenvolvimento em sistema WMS (Warehouse Management System) voltado para rastreabilidade logística, conferência e fluxo operacional.
+- Developed complex financial workflows using **React, TypeScript, Redux, and REST APIs**, with unit and integration tests.
+- Migrated JavaScript code to TypeScript and replaced legacy libraries affecting the application.
+- Built real-time report tracking using **Server-Sent Events (SSE)**.
+- Replaced repeated linear searches with direct indexed lookups, addressing performance bottlenecks in large client-side datasets.
+- Reduced duplicated functionality across backend integrations to improve maintainability and consistency.
 
-- Atuei no backend com .NET e modelagem/otimização de consultas complexas em SQL Server.
-- Implementei padrões arquiteturais como Facade para isolamento de camadas em ambiente com características distribuídas.
-- Sustentação e manutenção de rotinas críticas de expedição, inventário e emissão de notas fiscais.
+### JetSoft — Full Stack Developer
+**May 2025 – Aug 2025 | São José dos Campos, Brazil**
 
-### Compusis Informática | Desenvolvedor Full-Stack
-*Jan/2025 – Mai/2025*
+- Developed warehouse management system (WMS) functionality for logistics, traceability, and operations using **.NET**, jQuery, and **SQL Server**.
+- Worked on relational data modeling, complex queries, performance optimization, and system integrations.
+- Applied the **Facade** pattern and layered architecture to structure business logic.
 
-Evolução e manutenção de ERP e aplicações móveis voltadas a forças comerciais e frente de caixa.
+### Compusis Informática — Full Stack Developer
+**Jan 2025 – May 2025 | Santa Cruz do Sul, Brazil**
 
-- Desenvolvi regras de negócio, integrações e rotinas de persistência no backend em Java.
-- Construí e mantive interfaces web em JavaScript/jQuery e aplicativos móveis em Android (Java).
-- Realizei correções emergenciais em ambiente produtivo e evolução em módulos fiscais e tributários.
+- Developed and maintained ERP and business application functionality, including Java-based business rules, integrations, and persistence.
+- Built web interfaces with JavaScript/jQuery and contributed to Android applications using Java.
+- Supported production systems and business-critical operational workflows.
 
-### Um Ponto Dois Software de Gestão | Desenvolvedor Full-Stack
-*Mai/2022 – Out/2024*
+### Um Ponto Dois Software de Gestão — Full Stack Developer
+**May 2022 – Oct 2024 | Laranjal Paulista, Brazil**
 
-Desenvolvimento de suíte de sistemas corporativos (ERP, RH, WMS, Gestão Comercial e Fiscal) e projetos dedicados ao setor frigorífico.
+- Developed business-critical software across ERP, HR, commercial management, inventory, and production operations using **C#/.NET, SQL Server, and MySQL**.
+- Led the design and delivery of a product traceability system for a meat-processing company, enabling batch-level tracking across production and sales destinations.
+- Designed a reusable, plug-and-play core to support integration with multiple customized ERP applications.
+- Worked directly with stakeholders on requirements, system behavior, relational data modeling, and production support.
 
-- Desenvolvi aplicações corporativas utilizando C#, implementando regras de negócio complexas e rotinas administrativas.
-- Modelei e otimizei bases de dados relacionais com SQL Server e MySQL para suporte a relatórios operacionais e transações de alto volume.
-- Atuei diretamente no ciclo completo de software: levantamento de requisitos com stakeholders, modelagem de processos e sustentação em produção.
+## Education
 
----
+- **Postgraduate Specialization in DevOps** — Estácio | Jul 2026 – Jun 2027 *(in progress)*
+- **Bachelor's Degree in Computer Science** — Universidade de Franca | Jan 2021 – Dec 2024
 
-## Formação Acadêmica
+## Languages
 
-- **Pós-graduação Lato Sensu em DevOps** — Estácio *(Jul/2026 – Jun/2027)*
-- **Bacharelado em Ciência da Computação** — Universidade de Franca *(Jan/2021 – Dez/2024)*
-
----
-
-## Idiomas
-
-- **Português:** Nativo
-- **Inglês:** Intermediário (Leitura técnica aprofundada, documentação e comunicação profissional escrita)
+- **Portuguese:** Native
+- **English:** Intermediate — technical reading, documentation, and professional written communication
