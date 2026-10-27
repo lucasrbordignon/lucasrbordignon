@@ -91,3 +91,4 @@ Contributed to a financial self-service platform for loans and consortium produc
 
 - **Portuguese:** Native
 - **English:** Intermediate — technical reading, documentation, and professional written communication
+- **Spanish:** Intermediate — technical reading, documentation, and professional written communication
