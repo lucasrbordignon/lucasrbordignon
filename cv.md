@@ -10,7 +10,7 @@ São Paulo, Brazil · +55 (15) 99136-0221 · [lucas.r.bordignon@gmail.com](mailt
 
 ## Professional Summary
 
-Full Stack Software Engineer with professional experience since 2022 building, modernizing, and operating business-critical software across SaaS, ERP, WMS, financial services, and sales platforms. Strong focus on **React, Node.js, TypeScript, PostgreSQL, and AWS**, with hands-on experience across the software lifecycle: business requirements, application architecture, REST APIs, asynchronous processing, database optimization, CI/CD, and production operations. Comfortable bridging frontend and backend engineering while designing pragmatic, maintainable systems. Experienced working with cross-functional stakeholders and building products used by real customers.
+Full Stack Software Engineer with professional experience since 2021 building, modernizing, and operating business-critical software across SaaS, ERP, WMS, financial services, and sales platforms. Strong focus on **React, Node.js, TypeScript, PostgreSQL, and AWS**, with hands-on experience across the software lifecycle: business requirements, application architecture, REST APIs, asynchronous processing, database optimization, CI/CD, and production operations. Comfortable bridging frontend and backend engineering while designing pragmatic, maintainable systems. Experienced working with cross-functional stakeholders and building products used by real customers.
 
 ## Technical Skills
 
