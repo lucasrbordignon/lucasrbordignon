@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I'm a software engineer building business-critical applications from user experience to production infrastructure. Since 2022, I've worked across SaaS, ERP, WMS, fintech, and sales platforms — solving problems that involve both complex business rules and reliable software delivery.
+I'm a software engineer building business-critical applications from user experience to production infrastructure. Since 2021, I've worked across SaaS, ERP, WMS, fintech, and sales platforms — solving problems that involve both complex business rules and reliable software delivery.
 
 - 🔭 **What I build:** End-to-end products with **React**, **Node.js**, **TypeScript**, and **PostgreSQL**, from intuitive interfaces to robust APIs.
 - ⚙️ **Beyond CRUD:** Async workflows, event-driven integrations, Redis caching, real-time updates, database performance, and multi-tenant systems.
